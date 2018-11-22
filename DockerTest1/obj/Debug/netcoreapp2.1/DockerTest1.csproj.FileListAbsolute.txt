@@ -1,0 +1,14 @@
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.AssemblyInfoInputs.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.AssemblyInfo.cs
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\bin\Debug\netcoreapp2.1\DockerTest1.deps.json
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\bin\Debug\netcoreapp2.1\DockerTest1.runtimeconfig.json
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\bin\Debug\netcoreapp2.1\DockerTest1.runtimeconfig.dev.json
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\bin\Debug\netcoreapp2.1\DockerTest1.dll
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\bin\Debug\netcoreapp2.1\DockerTest1.pdb
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.csprojAssemblyReference.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.RazorAssemblyInfo.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.RazorAssemblyInfo.cs
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.RazorTargetAssemblyInfo.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.dll
+C:\Users\Victor Ureta\source\repos\DockerTest1\DockerTest1\obj\Debug\netcoreapp2.1\DockerTest1.pdb
